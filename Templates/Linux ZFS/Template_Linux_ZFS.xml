@@ -12,7 +12,7 @@
             <template>Template Linux ZFS</template>
             <name>Template Linux ZFS</name>
             <description>(edit by SAV at 2019)&#13;
-https://github.com/Nerdsav/zabbix-zfs-checks</description>
+https://github.com/Nerdsav/Zabbix34</description>
             <groups>
                 <group>
                     <name>Templates</name>
